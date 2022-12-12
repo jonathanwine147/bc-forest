@@ -1,7 +1,7 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: British Columbia Peoples' Forest
 featured_image: "/images/logo.png"
-description: The last theme you'll ever need. Maybe.
+description: Stewarding BC's forests
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+The BC Peoples' Forest is an organic community of people who value co-existence with natural forests.
